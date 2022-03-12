@@ -12,6 +12,7 @@ import { CartContext } from '../context/CartContextProvider';
 import styles from "./ShopCart.module.css";
 
 const ShopCart = () => {
+    
 
     const { state, dispatch } = useContext(CartContext);
 
