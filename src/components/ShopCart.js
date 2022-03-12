@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import Cart from './shared/Cart';
 
 // Context
+
 import { CartContext } from '../context/CartContextProvider';
 
 // Style
