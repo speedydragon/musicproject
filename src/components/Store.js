@@ -5,6 +5,7 @@ import React, { useContext } from 'react';
 import Product from './shared/Product';
 
 // Context
+
 import { ProductsContext } from '../context/ProductContextProvider';
 
 // Style
